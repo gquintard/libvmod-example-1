@@ -2,6 +2,8 @@
 vmod-example
 ============
 
+[![CircleCI](https://circleci.com/gh/varnishcache/libvmod-example/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/varnishcache/libvmod-example?branch=master)
+
 notice
 ------
 
